@@ -1,4 +1,4 @@
-# NAMU
+# NAMU 2
 
 - HTML, CSS (SCSS), JS
 - BEM
